@@ -1,0 +1,6 @@
+__pycache__/
+*.pt
+*.avi
+*.pkl
+.DS_Store
+.claude/
